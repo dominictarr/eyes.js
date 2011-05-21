@@ -53,3 +53,6 @@ sys.puts(inspect('something', "something"));
 sys.puts(inspect("something else"));
 
 sys.puts(inspect(["no color"], null, { styles: false }));
+
+
+eyes.inspect([null])
